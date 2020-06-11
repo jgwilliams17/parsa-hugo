@@ -236,7 +236,7 @@ body {
 ol,
 ul {
 /*  list-style-type: none; */
-  margin: 0px;
+  margin: 10px 0;
 }
 
 img {
