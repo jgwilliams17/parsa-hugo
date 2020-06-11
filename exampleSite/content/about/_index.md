@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Jess and Caoimhe
 date: 2019-05-14T08:46:10.000+00:00
 description: Hello we're Caoimhe and Jess
 image: images/bffs.jpg
