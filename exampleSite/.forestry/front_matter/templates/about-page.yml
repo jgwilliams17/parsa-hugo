@@ -15,3 +15,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- exampleSite/content/about/_index.md
